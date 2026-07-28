@@ -1,0 +1,15 @@
+{
+  "name": "educonecta-backend",
+  "version": "1.0.0",
+  "description": "API REST de EduConecta - Node.js + Express + almacenamiento en archivo JSON",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "multer": "^2.0.0"
+  }
+}

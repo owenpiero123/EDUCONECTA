@@ -1,0 +1,32 @@
+[
+  {
+    "id": "seed001",
+    "estudiante": "Mateo Rivas",
+    "colegio": "I.E. José Olaya",
+    "materia": "Matemáticas",
+    "descripcion": "No entiendo cómo despejar 'x' en 3x + 5 = 20",
+    "urgencia": "Es urgente",
+    "imagenes": [],
+    "estado": "en curso",
+    "tutor": "Owen Llacsahuanga",
+    "universidadTutor": "Universidad Chiclayo",
+    "enlaceReunion": "https://meet.jit.si/EduConecta-seed001",
+    "mensajes": [],
+    "fecha": 1752600000000
+  },
+  {
+    "id": "seed002",
+    "estudiante": "Camila Torres",
+    "colegio": "I.E. Túpac Amaru",
+    "materia": "Ciencias",
+    "descripcion": "Necesito ayuda para entender las partes de la célula y sus funciones para mi examen.",
+    "urgencia": "Esta semana",
+    "imagenes": [],
+    "estado": "pendiente",
+    "tutor": null,
+    "universidadTutor": null,
+    "enlaceReunion": null,
+    "mensajes": [],
+    "fecha": 1752650000000
+  }
+]

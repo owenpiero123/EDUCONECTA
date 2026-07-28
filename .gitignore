@@ -1,0 +1,77 @@
+# ==========================
+# Dependencias
+# ==========================
+node_modules/
+**/node_modules/
+backend/node_modules/
+frontend/node_modules/
+.pnp
+.pnp.js
+
+# ==========================
+# Variables de entorno
+# ==========================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+frontend/.env
+
+# ==========================
+# Build / dist
+# ==========================
+dist/
+build/
+frontend/dist/
+frontend/build/
+backend/dist/
+
+# ==========================
+# Logs
+# ==========================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# ==========================
+# Cache
+# ==========================
+.cache/
+.vite/
+.parcel-cache/
+.eslintcache
+
+# ==========================
+# Editor / IDE
+# ==========================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# ==========================
+# Sistema operativo
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# Testing / coverage
+# ==========================
+coverage/
+*.lcov
+
+# ==========================
+# Otros
+# ==========================
+*.tgz
+*.tsbuildinfo
+.vercel
